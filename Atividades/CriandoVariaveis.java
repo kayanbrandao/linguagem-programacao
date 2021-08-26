@@ -19,6 +19,7 @@ public class CriandoVariaveis {
         qualquer1 = "Seu";
         qualquer2 = "Creisson";
 
+		System.out.println("Sua idade é de: " + idade + " anos");
 		System.out.println( "A variável x contém " + x );
 		System.out.println( "O valor " + y + " está armazenado na variável y" );
 		System.out.println( "O experimento levou " + segundos + " segundos." );

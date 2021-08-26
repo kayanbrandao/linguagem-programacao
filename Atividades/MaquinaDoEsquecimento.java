@@ -17,5 +17,7 @@ public class MaquinaDoEsquecimento {
         
 		System.out.println("Tem algo a mais para dizer?");
 		teclado.next();
+
+		teclado.close();
 	}
 }
