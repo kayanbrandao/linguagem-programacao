@@ -29,5 +29,6 @@ public class CompararNumeros {
 			System.out.println(primeiro + " não é igual a " + segundo);
             System.out.println("Ei!");
         }
+		teclado.close();
 	}
 }
